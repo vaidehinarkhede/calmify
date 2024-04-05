@@ -1,0 +1,15 @@
+.center{
+    text-align: center;
+    background-color: #5f2d0d;
+    color: #fff;
+    padding: 1rem;
+}
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+a{
+    text-decoration: none;
+}
