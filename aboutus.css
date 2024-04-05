@@ -1,0 +1,15 @@
+p{
+    font-size:25px ;
+    font-family: 'Times New Roman';
+    padding: 12px;
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 12px;
+    text-align: center;
+    color: #7f5b55;
+    text-decoration: underline;
+}
+
